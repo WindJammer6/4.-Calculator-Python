@@ -6,8 +6,6 @@ My fourth programming project, in Python.
 
 Fairly simple project compared to the previous 2 projects.
 
-![Semantic description of image](https://i.pinimg.com/736x/cb/75/33/cb7533438bf2c436fe0636b3b1d579ce.jpg)
-
 <br>
 
 Computer program used for coding: VS Code
